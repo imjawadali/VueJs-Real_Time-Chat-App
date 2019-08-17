@@ -4,13 +4,13 @@ import firestore from 'firebase/firestore';
 
 // config Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyAjQcyt1Gu8Yvrx9Kh4ciC7ozz6xQbQ-zY",
-    authDomain: "geo-ninjas-62426.firebaseapp.com",
-    databaseURL: "https://geo-ninjas-62426.firebaseio.com",
-    projectId: "geo-ninjas-62426",
-    storageBucket: "geo-ninjas-62426.appspot.com",
-    messagingSenderId: "343456641246",
-    appId: "1:343456641246:web:c317faa71924d36a"
+    apiKey: "AIzaSyBlX3q-LWpp_i-CORDDhl-rbbwHf8YdShw",
+    authDomain: "chat-app-62426.firebaseapp.com",
+    databaseURL: "https://chat-app-62426.firebaseio.com",
+    projectId: "chat-app-62426",
+    storageBucket: "chat-app-62426.appspot.com",
+    messagingSenderId: "54600955407",
+    appId: "1:54600955407:web:9bfca26e3782f698"
 };
 // Initialize Firebase
 const firebaseApp = firebase.initializeApp(firebaseConfig);
